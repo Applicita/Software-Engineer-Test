@@ -1,6 +1,5 @@
 
 # Software Engineer Test
-Recruitment Tests for Applicita Software Engineer Tests.
 
 ## Getting started
 All of these tasks are located under the same Solution file named [ApplicitaRecruitment.sln](Code/Applicita.Recruitment.sln) located in the Code folder of this repository. The projects are named after the tasks they are associated to.
