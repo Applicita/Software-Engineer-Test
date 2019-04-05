@@ -28,6 +28,8 @@ All of these tasks are located under the same Solution file named [ApplicitaRecr
 
     |Setting|Value|
     |-|-|
+    |Authority|https://applicita-idp-server.azurewebsites.net/|
+    |Well Known Endpoint|https://applicita-idp-server.azurewebsites.net/.well-known/openid-configuration|
     |Token Endpoint|https://applicita-idp-server.azurewebsites.net/connect/token|
     |ClientId|ApplicitaServiceClient|
     |Secret|secret123|
