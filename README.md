@@ -29,10 +29,12 @@ All of these tasks are located under the same Solution file named [ApplicitaRecr
 
     |Setting|Value|
     |-|-|
-    |Authority|https://<uri>|
-    |ClientId|<Client ID>|
-    |Secret|<Secret>|
-    |Scope|person-api|
+    |Token Endpoint|https://applicita-idp-server.azurewebsites.net/|
+    |ClientId|ApplicitaServiceClient|
+    |Secret|secret123|
+    |Scope|customer-api|
+
+    Feel free to change the hosting/startup pipeline if it helps.
 
 ## Task 4 - Path to production
 In a short paragrah, how would you get the API used in Step 2 and 3 to production?
