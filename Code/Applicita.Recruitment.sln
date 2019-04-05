@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Applicita.Recruitment.Task1", "Applicita.Recruitment.Task1\Applicita.Recruitment.Task1.csproj", "{9782C31F-7764-434D-A5E7-71958A196B93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Applicita.Recruitment.Task2and3", "Applicita.Recruitment.Task2and3\Applicita.Recruitment.Task2and3.csproj", "{828FD5BE-D0B4-4D86-B83C-30D984640756}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9782C31F-7764-434D-A5E7-71958A196B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9782C31F-7764-434D-A5E7-71958A196B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9782C31F-7764-434D-A5E7-71958A196B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828FD5BE-D0B4-4D86-B83C-30D984640756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828FD5BE-D0B4-4D86-B83C-30D984640756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828FD5BE-D0B4-4D86-B83C-30D984640756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828FD5BE-D0B4-4D86-B83C-30D984640756}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
