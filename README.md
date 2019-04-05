@@ -28,7 +28,7 @@ All of these tasks are located under the same Solution file named [ApplicitaRecr
 
     |Setting|Value|
     |-|-|
-    |Token Endpoint|https://applicita-idp-server.azurewebsites.net/|
+    |Token Endpoint|https://applicita-idp-server.azurewebsites.net/connect/token|
     |ClientId|ApplicitaServiceClient|
     |Secret|secret123|
     |Scope|customer-api|
